@@ -1,1 +1,0 @@
-This changes has been done form CLI
